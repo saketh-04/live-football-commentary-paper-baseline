@@ -27,46 +27,25 @@ from improved_rag import ImprovedFootballRAG
 PBP_FILE = Path("data/demo/pbp/0008/play-by-play-en.jsonl")
 OUTPUT_DIR = Path("outputs/improved-demo")
 
-# ---------------------------------------------------------------------------
-# Entity-aware scoring weights.
-#
-# These weights are simple, hand-picked heuristics chosen for demonstration
-# purposes only. They are NOT the result of any tuning or optimization, and
-# no claim is made that they are scientifically optimal. They exist purely
-# to show, qualitatively, that folding in known entities (player/team/
-# opponent) can pull more relevant documents to the top compared to pure
-# semantic similarity alone.
-# ---------------------------------------------------------------------------
-PLAYER_NAME_BONUS = 0.30   # player's name appears in the document filename
-PLAYER_TEXT_BONUS = 0.10   # player's name appears in the document body (fallback)
-TEAM_BONUS = 0.05          # player's team name appears in the document body
-OPPONENT_BONUS = 0.03      # opponent team name appears in the document body
+PLAYER_NAME_BONUS = 0.30
+PLAYER_TEXT_BONUS = 0.10
+TEAM_BONUS = 0.05
+OPPONENT_BONUS = 0.03
 
 
-def load_real_event(pbp_file: Path) -> dict:
-    """
-    Load real play-by-play events from the given match and pick a concrete
-    GOAL event, along with the opponent team inferred from other events in
-    the same file. No event or player facts are invented; everything here
-    comes directly from data/demo/pbp/0008/play-by-play-en.jsonl.
-    """
+def _read_raw_events(pbp_file: Path) -> list[dict]:
     events = []
     with open(pbp_file, encoding="utf-8") as f:
         for line in f:
             line = line.strip()
             if line:
                 events.append(json.loads(line))
+    return events
 
-    teams = {e["team"] for e in events}
 
-    goal_events = [e for e in events if e["action"] == "GOAL"]
-    if not goal_events:
-        raise RuntimeError(f"No GOAL event found in {pbp_file}")
-    event = goal_events[0]
-
+def _build_event_dict(event: dict, teams: set, pbp_file: Path) -> dict:
     other_teams = [t for t in teams if t != event["team"]]
     opponent = other_teams[0] if other_teams else "Unknown"
-
     return {
         "match_file": str(pbp_file),
         "start_time": event["start_time"],
@@ -81,10 +60,22 @@ def load_real_event(pbp_file: Path) -> dict:
     }
 
 
+def load_all_events(pbp_file: Path) -> list[dict]:
+    raw_events = _read_raw_events(pbp_file)
+    teams = {e["team"] for e in raw_events}
+    return [_build_event_dict(e, teams, pbp_file) for e in raw_events]
+
+
+def load_real_event(pbp_file: Path) -> dict:
+    raw_events = _read_raw_events(pbp_file)
+    teams = {e["team"] for e in raw_events}
+    goal_events = [e for e in raw_events if e["action"] == "GOAL"]
+    if not goal_events:
+        raise RuntimeError(f"No GOAL event found in {pbp_file}")
+    return _build_event_dict(goal_events[0], teams, pbp_file)
+
+
 def baseline_retrieve(rag: ImprovedFootballRAG, event: dict, top_k: int = 3) -> list[dict]:
-    """
-    BASELINE: pure semantic similarity only, no entity awareness.
-    """
     query = f"{event['player']} {event['team']} {event['action']} {event['text']}"
     results = rag.retrieve_raw(query, top_k=top_k)
     for r in results:
@@ -95,16 +86,6 @@ def baseline_retrieve(rag: ImprovedFootballRAG, event: dict, top_k: int = 3) -> 
 
 
 def entity_aware_retrieve(rag: ImprovedFootballRAG, event: dict, top_k: int = 3, pool: int = 30) -> list[dict]:
-    """
-    IMPROVED: semantic similarity + entity-aware bonus.
-
-    final_score = semantic_score + player_bonus + team_bonus + opponent_bonus
-
-    We first retrieve a larger candidate pool (`pool`) by semantic score
-    alone, then rerank that pool using entity bonuses, then keep the top_k.
-    This keeps the entity-aware step cheap (rerank, not a second FAISS
-    search per entity) and transparent for the demo/report output.
-    """
     query = f"{event['player']} {event['team']} {event['action']} {event['text']}"
     candidates = rag.retrieve_raw(query, top_k=pool)
 
@@ -142,15 +123,6 @@ def entity_aware_retrieve(rag: ImprovedFootballRAG, event: dict, top_k: int = 3,
 
 
 def generate_local_commentary(event: dict, top_context: dict) -> str:
-    """
-    LOCAL / DETERMINISTIC commentary generator (template-based, NOT an LLM).
-
-    Only uses facts already present in the real event record. The
-    retrieved background document is referenced only by naming its
-    subject (derived from the filename), never by quoting or paraphrasing
-    its content at length, to keep this a short, natural commentary line
-    rather than a rendering of the source article.
-    """
     player = event["player"]
     team = event["team"]
     opponent = event["opponent"]
@@ -202,9 +174,6 @@ def main():
     top_context = improved_results[0] if improved_results else None
     commentary = generate_local_commentary(event, top_context)
 
-    # ------------------------------------------------------------------
-    # Console report
-    # ------------------------------------------------------------------
     lines = []
     lines.append("=" * 60)
     lines.append("SOCCER COMMENTARY DEMO (local, API-free improved prototype)")
@@ -265,9 +234,6 @@ def main():
     report_text = "\n".join(lines)
     print(report_text)
 
-    # ------------------------------------------------------------------
-    # Save outputs
-    # ------------------------------------------------------------------
     (OUTPUT_DIR / "demo_report.txt").write_text(report_text, encoding="utf-8")
 
     json_payload = {
