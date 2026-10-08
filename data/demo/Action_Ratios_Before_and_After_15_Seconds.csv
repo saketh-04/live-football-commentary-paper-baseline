@@ -1,0 +1,18 @@
+アクション,アクション前15秒間の割合,アクション後15秒間の割合
+Ball out of play,15.31%,21.34%
+Clearance,23.25%,20.89%
+Corner,23.19%,16.99%
+Direct free-kick,22.01%,18.75%
+Foul,16.46%,24.4%
+Goal,14.38%,32.02%
+Indirect free-kick,24.06%,18.56%
+Kick-off,27.24%,27.07%
+Offside,16.59%,26.89%
+Penalty,34.18%,46.03%
+Red card,30.34%,30.51%
+Shots off target,12.88%,18.57%
+Shots on target,13.28%,22.57%
+Substitution,22.35%,25.08%
+Throw-in,20.94%,17.89%
+Yellow card,25.59%,31.51%
+Yellow->red card,22.64%,36.59%

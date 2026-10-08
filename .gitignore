@@ -1,16 +1,22 @@
-.venv/
+﻿.venv/
 __pycache__/
 *.pyc
 .env
 .cache/
 cache/
-data/
-outputs/
+
+data/*
+!data/demo/
+!data/demo/**
+
+outputs/*
+outputs/demo-step4/*
+!outputs/demo-step4/0008/
+!outputs/demo-step4/0008/en-w-sub-w-gsr.mp4
+
 logs/
-*.mp4
 *.wav
 *.zip
 
 storage/
-
 archives/

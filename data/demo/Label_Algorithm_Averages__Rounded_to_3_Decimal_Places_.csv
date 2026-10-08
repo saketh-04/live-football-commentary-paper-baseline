@@ -1,0 +1,6 @@
+label_algo,label_accuracy,label_precision,label_recall,label_f1
+action_spotting (No separate former and latter),69.098,20.164,18.946,19.536
+action_spotting (Separate former and latter),68.858,20.609,20.083,20.342
+action_spotting Addinfo force (No separate former and latter),50.235,21.612,57.607,31.431
+action_spotting Addinfo force (Separate former and latter),48.824,22.564,65.162,33.52
+constant,69.363,19.41,17.367,18.332

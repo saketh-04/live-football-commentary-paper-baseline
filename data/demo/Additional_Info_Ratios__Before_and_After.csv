@@ -1,0 +1,18 @@
+label,rate_before,rate_after
+Ball out of play,0.1531,0.2134
+Clearance,0.2325,0.2089
+Corner,0.2319,0.1699
+Direct free-kick,0.2201,0.1875
+Foul,0.1646,0.244
+Goal,0.1438,0.3202
+Indirect free-kick,0.2406,0.1856
+Kick-off,0.2724,0.2707
+Offside,0.1659,0.2689
+Penalty,0.3418,0.4603
+Red card,0.3034,0.3051
+Shots off target,0.1288,0.1857
+Shots on target,0.1328,0.2257
+Substitution,0.2235,0.2508
+Throw-in,0.2094,0.1789
+Yellow card,0.2559,0.3151
+Yellow->red card,0.2264,0.3659

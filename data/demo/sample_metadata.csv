@@ -1,0 +1,26 @@
+id,game,half,start,end
+8,germany_bundesliga/2015-2016/2015-08-29 - 19-30 Bayern Munich 3 - 0 Bayer Leverkusen,2,856,886
+10,italy_serie-a/2014-2015/2015-04-29 - 21-45 Juventus 3 - 2 Fiorentina,1,1937,1967
+11,europe_uefa-champions-league/2015-2016/2015-11-03 - 22-45 Shakhtar Donetsk 4 - 0 Malmo FF,1,2406,2436
+12,england_epl/2016-2017/2016-09-24 - 14-30 Manchester United 4 - 1 Leicester,1,2462,2492
+13,england_epl/2015-2016/2015-08-23 - 15-30 West Brom 2 - 3 Chelsea,2,474,504
+14,england_epl/2015-2016/2015-08-23 - 15-30 West Brom 2 - 3 Chelsea,1,945,975
+15,germany_bundesliga/2016-2017/2016-11-05 - 17-30 Hamburger SV 2 - 5 Dortmund,1,1600,1630
+16,germany_bundesliga/2015-2016/2015-08-29 - 19-30 Bayern Munich 3 - 0 Bayer Leverkusen,1,1102,1132
+17,germany_bundesliga/2015-2016/2015-08-29 - 19-30 Bayern Munich 3 - 0 Bayer Leverkusen,1,1715,1745
+18,germany_bundesliga/2014-2015/2015-05-09 - 16-30 Bayern Munich 0 - 1 FC Augsburg,2,18,48
+19,germany_bundesliga/2014-2015/2015-05-09 - 16-30 Bayern Munich 0 - 1 FC Augsburg,2,2751,2781
+20,england_epl/2014-2015/2015-05-17 - 18-00 Manchester United 1 - 1 Arsenal,1,1744,1774
+21,europe_uefa-champions-league/2016-2017/2017-04-12 - 21-45 Bayern Munich 1 - 2 Real Madrid,2,54,84
+22,europe_uefa-champions-league/2016-2017/2017-04-12 - 21-45 Bayern Munich 1 - 2 Real Madrid,2,718,748
+23,england_epl/2015-2016/2016-03-01 - 22-45 Norwich 1 - 2 Chelsea,1,1097,1127
+24,germany_bundesliga/2016-2017/2016-09-10 - 19-30 RB Leipzig 1 - 0 Dortmund,1,657,687
+25,germany_bundesliga/2016-2017/2016-09-10 - 19-30 RB Leipzig 1 - 0 Dortmund,2,2571,2601
+26,england_epl/2016-2017/2016-10-15 - 14-30 Chelsea 3 - 0 Leicester,2,317,347
+27,europe_uefa-champions-league/2016-2017/2017-05-02 - 21-45 Real Madrid 3 - 0 Atl. Madrid,2,2246,2276
+28,spain_laliga/2015-2016/2015-09-19 - 17-00 Real Madrid 1 - 0 Granada CF,2,736,766
+29,spain_laliga/2014-2015/2015-04-18 - 21-00 Real Madrid 3 - 1 Malaga,1,1978,2008
+30,europe_uefa-champions-league/2014-2015/2015-03-10 - 22-45 Real Madrid 3 - 4 Schalke,2,370,400
+31,germany_bundesliga/2016-2017/2017-01-29 - 19-30 1. FSV Mainz 05 1 - 1 Dortmund,2,499,529
+32,spain_laliga/2016-2017/2017-04-08 - 21-45 Malaga 2 - 0 Barcelona,1,1541,1571
+33,europe_uefa-champions-league/2014-2015/2015-04-15 - 21-45 FC Porto 3 - 1 Bayern Munich,1,62,92
