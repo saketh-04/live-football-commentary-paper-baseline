@@ -2342,16 +2342,6 @@ wheels = [
 ]
 
 [[package]]
-name = "pyopenjtalk"
-version = "0.4.0"
-source = { registry = "https://pypi.org/simple" }
-dependencies = [
-    { name = "numpy" },
-    { name = "tqdm" },
-]
-sdist = { url = "https://files.pythonhosted.org/packages/63/5e/50434a22f5c20ed1e562f4d7edbb7b1b04853abc185b9ac12dea18b02006/pyopenjtalk-0.4.0.tar.gz", hash = "sha256:eb66fa5daba56a865c44fb78ee31851a1f6d3dce0d48198b9e5af15b7d55c0bb", size = 1397964, upload-time = "2025-01-22T11:03:28.683Z" }
-
-[[package]]
 name = "pypdf"
 version = "4.3.1"
 source = { registry = "https://pypi.org/simple" }
@@ -2806,7 +2796,6 @@ dependencies = [
     { name = "piper" },
     { name = "polars" },
     { name = "pydub" },
-    { name = "pyopenjtalk" },
     { name = "pysrt" },
     { name = "python-dotenv" },
     { name = "python-multipart" },
@@ -2837,7 +2826,6 @@ requires-dist = [
     { name = "piper", specifier = ">=0.14.4" },
     { name = "polars", specifier = ">=1.22.0" },
     { name = "pydub", specifier = ">=0.25.1" },
-    { name = "pyopenjtalk", specifier = ">=0.4.0" },
     { name = "pysrt", specifier = ">=1.1.2" },
     { name = "python-dotenv", specifier = ">=1.0.1" },
     { name = "python-multipart", specifier = ">=0.0.20" },

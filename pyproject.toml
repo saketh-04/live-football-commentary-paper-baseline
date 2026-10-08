@@ -27,7 +27,6 @@ dependencies = [
     "beautifulsoup4>=4.12.3",
     "polars>=1.22.0",
     "pysrt>=1.1.2",
-    "pyopenjtalk>=0.4.0",
     "pydub>=0.25.1",
     "piper>=0.14.4",
     "python-multipart>=0.0.20",
