@@ -1,0 +1,62 @@
+{
+  "dataset_total_events": 139,
+  "evaluated_events_with_ground_truth": 113,
+  "evaluation_coverage_pct": 81.29,
+  "ablation_metrics": {
+    "A0_Semantic_Baseline": {
+      "condition": "A0_Semantic_Baseline",
+      "mode": "semantic_only",
+      "evaluated_events": 113,
+      "precision_at_1": 0.1416,
+      "precision_at_3": 0.2124,
+      "recall_at_5": 0.2212,
+      "mrr": 0.1748
+    },
+    "A1_Entity_Aware": {
+      "condition": "A1_Entity_Aware",
+      "mode": "entity_aware",
+      "evaluated_events": 113,
+      "precision_at_1": 0.2035,
+      "precision_at_3": 0.2478,
+      "recall_at_5": 0.2743,
+      "mrr": 0.2299
+    },
+    "A2_Temporal_Context": {
+      "condition": "A2_Temporal_Context",
+      "mode": "temporal",
+      "evaluated_events": 113,
+      "precision_at_1": 0.1681,
+      "precision_at_3": 0.2035,
+      "recall_at_5": 0.2212,
+      "mrr": 0.1903
+    },
+    "A3_Match_State": {
+      "condition": "A3_Match_State",
+      "mode": "match_state",
+      "evaluated_events": 113,
+      "precision_at_1": 0.1681,
+      "precision_at_3": 0.2035,
+      "recall_at_5": 0.2212,
+      "mrr": 0.1903
+    },
+    "A4_Full_System": {
+      "condition": "A4_Full_System",
+      "mode": "full",
+      "evaluated_events": 113,
+      "precision_at_1": 0.1681,
+      "precision_at_3": 0.2035,
+      "recall_at_5": 0.2212,
+      "mrr": 0.1903
+    },
+    "A5_Full_System_Fact_Checked": {
+      "condition": "A5_Full_System_Fact_Checked",
+      "mode": "full + factual_verification",
+      "evaluated_events": 113,
+      "precision_at_1": 0.1681,
+      "precision_at_3": 0.2035,
+      "recall_at_5": 0.2212,
+      "mrr": 0.1903,
+      "factual_consistency_rate": 1.0
+    }
+  }
+}

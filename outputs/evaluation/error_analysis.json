@@ -1,0 +1,142 @@
+{
+  "total_inspected_events": 139,
+  "error_distribution": {
+    "wrong_player": 94,
+    "wrong_team": 0,
+    "semantically_similar_distractor": 97,
+    "missing_corpus_entity": 26,
+    "ambiguous_entity": 0,
+    "missing_match_score": 113,
+    "generation_contradiction": 6,
+    "verification_correction": 6
+  },
+  "representative_examples": {
+    "wrong_player": [
+      {
+        "match_id": "0008",
+        "expected_player": "Boateng",
+        "retrieved_player": "Kevin-Prince Boateng",
+        "explanation": "Even with entity bonus, 'Kevin-Prince Boateng' outscored 'Boateng'."
+      },
+      {
+        "match_id": "0010",
+        "expected_player": "Joaquin",
+        "retrieved_player": "Marco Sportiello",
+        "explanation": "Even with entity bonus, 'Marco Sportiello' outscored 'Joaquin'."
+      },
+      {
+        "match_id": "0010",
+        "expected_player": "Joaquin",
+        "retrieved_player": "Cristiano Piccini",
+        "explanation": "Even with entity bonus, 'Cristiano Piccini' outscored 'Joaquin'."
+      }
+    ],
+    "wrong_team": [],
+    "semantically_similar_distractor": [
+      {
+        "match_id": "0008",
+        "expected_player": "Boateng",
+        "gold_doc": "Derek_Boateng.txt",
+        "distractor_retrieved": "Stefan_Aigner.txt",
+        "distractor_semantic_score": 0.4265,
+        "explanation": "Pure semantic similarity ranked 'Stefan Aigner' above true subject 'Boateng'."
+      },
+      {
+        "match_id": "0008",
+        "expected_player": "Kresic",
+        "gold_doc": "Dario_Kresic.txt",
+        "distractor_retrieved": "Fabian_Giefer.txt",
+        "distractor_semantic_score": 0.5374,
+        "explanation": "Pure semantic similarity ranked 'Fabian Giefer' above true subject 'Kresic'."
+      },
+      {
+        "match_id": "0008",
+        "expected_player": "Kresic",
+        "gold_doc": "Dario_Kresic.txt",
+        "distractor_retrieved": "Fabian_Giefer.txt",
+        "distractor_semantic_score": 0.5275,
+        "explanation": "Pure semantic similarity ranked 'Fabian Giefer' above true subject 'Kresic'."
+      },
+      {
+        "match_id": "0010",
+        "expected_player": "Joaquin",
+        "gold_doc": "Joaquin.txt",
+        "distractor_retrieved": "Juan_Rafael_Fuentes.txt",
+        "distractor_semantic_score": 0.3683,
+        "explanation": "Pure semantic similarity ranked 'Juan Rafael Fuentes' above true subject 'Joaquin'."
+      }
+    ],
+    "missing_corpus_entity": [
+      {
+        "match_id": "0012",
+        "player": "Bailly",
+        "team": "Manchester United",
+        "action": "CROSS",
+        "explanation": "Player 'Bailly' (Manchester United) does not have a biography in data/addinfo_retrieval/."
+      },
+      {
+        "match_id": "0015",
+        "player": "        NaNPiszczek L.",
+        "team": "Dortmund",
+        "action": "DRIVE",
+        "explanation": "Player '        NaNPiszczek L.' (Dortmund) does not have a biography in data/addinfo_retrieval/."
+      },
+      {
+        "match_id": "0015",
+        "player": "        NaN   SokratisPiszczek L.",
+        "team": "Dortmund",
+        "action": "HIGH PASS",
+        "explanation": "Player '        NaN   SokratisPiszczek L.' (Dortmund) does not have a biography in data/addinfo_retrieval/."
+      },
+      {
+        "match_id": "0016",
+        "player": "Calhanoglu H. Kiessling S.          NaN          NaN",
+        "team": "Bayer Leverkusen",
+        "action": "THROW IN",
+        "explanation": "Player 'Calhanoglu H. Kiessling S.          NaN          NaN' (Bayer Leverkusen) does not have a biography in data/addinfo_retrieval/."
+      }
+    ],
+    "ambiguous_entity": [],
+    "missing_match_score": [
+      {
+        "match_id": "0008",
+        "explanation": "Match metadata lacked definitive scoreline data."
+      },
+      {
+        "match_id": "0008",
+        "explanation": "Match metadata lacked definitive scoreline data."
+      },
+      {
+        "match_id": "0008",
+        "explanation": "Match metadata lacked definitive scoreline data."
+      }
+    ],
+    "generation_contradiction": [
+      {
+        "match_id": "0008",
+        "original": "Great save by the keeper to deny Kresic!",
+        "corrected": "GOAL! Kresic scores for Bayer Leverkusen against Bayern Munich!",
+        "contradictions": [
+          "Contradictory action wording 'save' found for event type GOAL."
+        ]
+      },
+      {
+        "match_id": "0010",
+        "original": "Great save by the keeper to deny Joaquin!",
+        "corrected": "GOAL! Joaquin scores for Fiorentina against Unknown!",
+        "contradictions": [
+          "Contradictory action wording 'save' found for event type GOAL."
+        ]
+      },
+      {
+        "match_id": "0010",
+        "original": "Great save by the keeper to deny Joaquin!",
+        "corrected": "GOAL! Joaquin scores for Fiorentina against Unknown!",
+        "contradictions": [
+          "Contradictory action wording 'save' found for event type GOAL."
+        ]
+      }
+    ],
+    "verification_correction": []
+  }
+}

@@ -1,0 +1,114 @@
+match_id,event_idx,minute,action,player,team,opponent,gold_document,retrieved_top1,retrieved_top1_score,rank_of_gold,verification_status,importance_tier
+0008,0,0,CROSS,Boateng,Bayern Munich,Bayer Leverkusen,Derek_Boateng.txt,Kevin-Prince_Boateng.txt,0.7253,Not in top 5,VERIFIED,Moderate
+0008,1,0,SHOT,Kresic,Bayer Leverkusen,Bayern Munich,Dario_Kresic.txt,Dario_Kresic.txt,0.8167,1,VERIFIED,Critical
+0008,2,0,GOAL,Kresic,Bayer Leverkusen,Bayern Munich,Dario_Kresic.txt,Dario_Kresic.txt,0.8527,1,VERIFIED,Critical
+0010,0,0,SHOT,Joaquin,Fiorentina,Unknown,Joaquin.txt,Joaquin.txt,0.686,1,VERIFIED,High
+0010,1,0,GOAL,Joaquin,Fiorentina,Unknown,Joaquin.txt,Marco_Sportiello.txt,0.4532,Not in top 5,VERIFIED,Critical
+0010,2,0,BALL PLAYER BLOCK,Joaquin,Fiorentina,Unknown,Joaquin.txt,Cristiano_Piccini.txt,0.4924,Not in top 5,VERIFIED,Moderate
+0010,3,0,GOAL,Joaquin,Fiorentina,Unknown,Joaquin.txt,Marco_Sportiello.txt,0.5487,Not in top 5,VERIFIED,Critical
+0011,0,0,FREE KICK,Mehmeti,Malmo FF,Shakhtar Donetsk,Agon_Mehmeti.txt,Agon_Mehmeti.txt,0.815,1,VERIFIED,Moderate
+0011,1,0,CROSS,Mehmeti,Malmo FF,Shakhtar Donetsk,Agon_Mehmeti.txt,Agon_Mehmeti.txt,0.9147,1,VERIFIED,Moderate
+0011,2,0,HEADER,Marlos,Shakhtar Donetsk,Malmo FF,Marlos.txt,Marlos.txt,0.8424,1,VERIFIED,High
+0011,3,0,THROW IN,Rosenberg,Malmo FF,Shakhtar Donetsk,Markus_Rosenberg.txt,Markus_Rosenberg.txt,0.8465,1,VERIFIED,Routine
+0011,4,0,PASS,Rosenberg,Malmo FF,Shakhtar Donetsk,Markus_Rosenberg.txt,Markus_Rosenberg.txt,0.8871,1,VERIFIED,Routine
+0012,1,0,CROSS,Blind,Manchester United,Leicester,Daley_Blind.txt,Ryan_Shawcross.txt,0.535,Not in top 5,VERIFIED,Moderate
+0012,2,0,SHOT,Blind,Manchester United,Leicester,Daley_Blind.txt,Donald_Love.txt,0.4392,Not in top 5,VERIFIED,Critical
+0012,3,0,BALL PLAYER BLOCK,Slimani,Leicester,Manchester United,Islam_Slimani.txt,"Michael_Keane_(footballer,_born_1993).txt",0.4718,Not in top 5,VERIFIED,Moderate
+0012,4,0,GOAL,Blind,Manchester United,Leicester,Daley_Blind.txt,"Michael_Keane_(footballer,_born_1993).txt",0.5269,Not in top 5,VERIFIED,Critical
+0013,0,0,PASS,McManaman C.,West Brom,Chelsea,Callum_McManaman.txt,Junior_Stanislas.txt,0.4618,2,VERIFIED,Routine
+0013,1,0,PASS,McManaman C.,West Brom,Chelsea,Callum_McManaman.txt,Callum_McManaman.txt,0.4681,1,VERIFIED,Routine
+0013,2,0,PASS,McManaman C.,West Brom,Chelsea,Callum_McManaman.txt,Callum_McManaman.txt,0.4463,1,VERIFIED,Routine
+0013,3,0,DRIVE,Willian,Chelsea,West Brom,"Willian_(footballer,_born_1988).txt",Michael_Carrick.txt,0.5405,Not in top 5,VERIFIED,Moderate
+0013,4,0,PASS,Hazard E.,Chelsea,West Brom,Eden_Hazard.txt,Tosin_Adarabioyo.txt,0.5099,Not in top 5,VERIFIED,Routine
+0013,5,0,PASS,Hazard E.,Chelsea,West Brom,Eden_Hazard.txt,Junior_Stanislas.txt,0.4515,Not in top 5,VERIFIED,Routine
+0013,6,0,DRIVE,Zouma K.,Chelsea,West Brom,Kurt_Zouma.txt,Tosin_Adarabioyo.txt,0.4676,Not in top 5,VERIFIED,Moderate
+0013,7,0,DRIVE,Terry J.,Chelsea,West Brom,John_Terry_(gridiron_football).txt,Hal_Robson-Kanu.txt,0.4549,Not in top 5,VERIFIED,Moderate
+0014,0,0,PASS,McManaman,West Brom,Unknown,Callum_McManaman.txt,Callum_McManaman.txt,0.7497,1,VERIFIED,Routine
+0014,1,0,PASS,Brunt,West Brom,Unknown,Chris_Brunt_(American_soccer).txt,Wesley_Hoolahan.txt,0.3672,Not in top 5,VERIFIED,Routine
+0014,2,0,DRIVE,Brunt,West Brom,Unknown,Chris_Brunt_(American_soccer).txt,Felix_Passlack.txt,0.2858,Not in top 5,VERIFIED,Moderate
+0014,3,0,DRIVE,Brunt,West Brom,Unknown,Chris_Brunt_(American_soccer).txt,Lynden_Gooch.txt,0.3386,Not in top 5,VERIFIED,Moderate
+0014,4,0,DRIVE,Brunt,West Brom,Unknown,Chris_Brunt_(American_soccer).txt,Lynden_Gooch.txt,0.3009,Not in top 5,VERIFIED,Moderate
+0015,0,0,THROW IN,Hunt A.,Hamburger SV,Dortmund,Aaron_Hunt_(gridiron_football).txt,"Alexander_Meyer_(footballer,_born_1991).txt",0.5262,Not in top 5,VERIFIED,Routine
+0015,3,0,HIGH PASS,       Sokratis    Piszczek L.            NaN            NaNWeidenfeller R.,Dortmund,Hamburger SV,Sokratis_Papastathopoulos.txt,"Alexander_Meyer_(footballer,_born_1991).txt",0.5745,Not in top 5,VERIFIED,Routine
+0015,4,0,HIGH PASS,Weidenfeller R.,Dortmund,Hamburger SV,Roman_Weidenfeller.txt,Muhamed_Besic.txt,0.4682,Not in top 5,VERIFIED,Routine
+0015,5,0,HIGH PASS,Weidenfeller R.,Dortmund,Hamburger SV,Roman_Weidenfeller.txt,Muhamed_Besic.txt,0.5045,Not in top 5,VERIFIED,Routine
+0015,6,0,HEADER,Weidenfeller R.,Dortmund,Hamburger SV,Roman_Weidenfeller.txt,Hakan_Calhanoglu.txt,0.5349,Not in top 5,VERIFIED,High
+0015,7,0,DRIVE,Jung G.,Hamburger SV,Dortmund,Anthony_Jung.txt,Tom_Starke.txt,0.5287,Not in top 5,VERIFIED,Moderate
+0015,8,0,DRIVE,Jung G.,Hamburger SV,Dortmund,Anthony_Jung.txt,Muhamed_Besic.txt,0.4904,Not in top 5,VERIFIED,Moderate
+0015,9,0,DRIVE,Guerreiro R.,Dortmund,Hamburger SV,"Raphael_Guerreiro_(footballer,_born_1968).txt",Moritz_Leitner.txt,0.5064,Not in top 5,VERIFIED,Moderate
+0015,10,0,SHOT,Jung G.,Hamburger SV,Dortmund,Anthony_Jung.txt,Tom_Starke.txt,0.463,Not in top 5,VERIFIED,Critical
+0015,11,0,GOAL,Guerreiro R.,Dortmund,Hamburger SV,"Raphael_Guerreiro_(footballer,_born_1968).txt","Alexander_Meyer_(footballer,_born_1991).txt",0.5875,Not in top 5,VERIFIED,Critical
+0015,12,0,GOAL,Guerreiro R.,Dortmund,Hamburger SV,"Raphael_Guerreiro_(footballer,_born_1968).txt",Moritz_Leitner.txt,0.5697,Not in top 5,VERIFIED,Critical
+0016,2,0,THROW IN,Kresic D.,Bayer Leverkusen,Bayern Munich,Dario_Kresic.txt,Fabian_Giefer.txt,0.5902,Not in top 5,VERIFIED,Routine
+0016,3,0,THROW IN,Boateng J.,Bayern Munich,Bayer Leverkusen,Derek_Boateng.txt,Kevin_Kampl.txt,0.5153,Not in top 5,VERIFIED,Routine
+0016,4,0,HEADER,Kresic D.,Bayer Leverkusen,Bayern Munich,Dario_Kresic.txt,Fabian_Giefer.txt,0.6047,Not in top 5,VERIFIED,High
+0016,5,0,DRIVE,Kramer Ch.,Bayer Leverkusen,Bayern Munich,Christoph_Kramer.txt,Simon_Rolfes.txt,0.5884,Not in top 5,VERIFIED,Moderate
+0016,6,0,DRIVE,Kramer Ch.,Bayer Leverkusen,Bayern Munich,Christoph_Kramer.txt,Simon_Rolfes.txt,0.5565,Not in top 5,VERIFIED,Moderate
+0018,6,0,DRIVE,      NaN      NaN   ThiagoRobben A. Neuer M.      NaN      NaN  Rafinha,Bayern Munich,FC Augsburg,"Rafinha_(footballer,_born_1982).txt",Moritz_Leitner.txt,0.526,Not in top 5,VERIFIED,Moderate
+0018,7,0,DRIVE,      NaN      NaN   ThiagoRobben A.      NaN      NaN  Rafinha,Bayern Munich,FC Augsburg,"Rafinha_(footballer,_born_1982).txt",Moritz_Leitner.txt,0.471,Not in top 5,VERIFIED,Moderate
+0018,9,0,DRIVE,Boateng J.,Bayern Munich,FC Augsburg,Derek_Boateng.txt,Moritz_Leitner.txt,0.5989,Not in top 5,VERIFIED,Moderate
+0018,10,0,DRIVE,Martinez J.,Bayern Munich,FC Augsburg,Mikel_Gonzalez_Martinez.txt,Moritz_Leitner.txt,0.5295,Not in top 5,VERIFIED,Moderate
+0018,11,0,DRIVE,Martinez J.,Bayern Munich,FC Augsburg,Mikel_Gonzalez_Martinez.txt,Moritz_Leitner.txt,0.5345,Not in top 5,VERIFIED,Moderate
+0018,12,0,THROW IN,    Rafinha   Neuer M.Martinez J.,Bayern Munich,FC Augsburg,"Rafinha_(footballer,_born_1982).txt",Sebastian_Langkamp.txt,0.557,Not in top 5,VERIFIED,Routine
+0018,13,0,PASS,Manninger A.,FC Augsburg,Bayern Munich,Alex_Manninger.txt,Christoph_Janker.txt,0.515,Not in top 5,VERIFIED,Routine
+0020,0,0,PASS,Carrick M.,Manchester United,Arsenal,Michael_Carrick.txt,Michael_Carrick.txt,0.5858,1,VERIFIED,Routine
+0020,1,0,DRIVE,Giroud O.,Arsenal,Manchester United,Olivier_Giroud.txt,Ryan_Bertrand.txt,0.5285,Not in top 5,VERIFIED,Moderate
+0020,2,0,HIGH PASS,Giroud O.,Arsenal,Manchester United,Olivier_Giroud.txt,Ryan_Bertrand.txt,0.5044,Not in top 5,VERIFIED,Routine
+0020,4,0,SHOT,Ospina D.,Arsenal,Manchester United,David_Ospina.txt,Henrikh_Mkhitaryan.txt,0.4829,Not in top 5,VERIFIED,Critical
+0020,5,0,BALL PLAYER BLOCK,Blind D.,Manchester United,Arsenal,Daley_Blind.txt,Donald_Love.txt,0.4236,Not in top 5,VERIFIED,Moderate
+0022,5,0,PASS,Arbeloa A.,Real Madrid,Bayern Munich,Alvaro_Arbeloa.txt,%C3%81lvaro_Odriozola.txt,0.4368,Not in top 5,VERIFIED,Routine
+0022,6,0,DRIVE,Arbeloa A.,Real Madrid,Bayern Munich,Alvaro_Arbeloa.txt,Sven_Ulreich.txt,0.4359,Not in top 5,VERIFIED,Moderate
+0022,7,0,DRIVE,Arbeloa A.,Real Madrid,Bayern Munich,Alvaro_Arbeloa.txt,%C3%81lvaro_Odriozola.txt,0.4595,Not in top 5,VERIFIED,Moderate
+0022,8,0,DRIVE,Arbeloa A.,Real Madrid,Bayern Munich,Alvaro_Arbeloa.txt,%C3%81lvaro_Odriozola.txt,0.4492,Not in top 5,VERIFIED,Moderate
+0022,9,0,PASS,Benzema K.,Real Madrid,Bayern Munich,Karim_Benzema.txt,Toni_Kroos.txt,0.4665,Not in top 5,VERIFIED,Routine
+0022,10,0,PASS,Benzema K.,Real Madrid,Bayern Munich,Karim_Benzema.txt,Toni_Kroos.txt,0.529,Not in top 5,VERIFIED,Routine
+0023,0,0,PASS,Klose T.,Norwich,Chelsea,Miroslav_Klose.txt,Peter_Crouch.txt,0.505,Not in top 5,VERIFIED,Routine
+0023,1,0,DRIVE,Klose T.,Norwich,Chelsea,Miroslav_Klose.txt,Peter_Crouch.txt,0.5077,Not in top 5,VERIFIED,Moderate
+0023,2,0,PASS,Klose T.,Norwich,Chelsea,Miroslav_Klose.txt,Peter_Crouch.txt,0.4773,Not in top 5,VERIFIED,Routine
+0023,3,0,DRIVE,Klose T.,Norwich,Chelsea,Miroslav_Klose.txt,Ryan_Bertrand.txt,0.5036,Not in top 5,VERIFIED,Moderate
+0023,4,0,DRIVE,Hazard E.,Chelsea,Norwich,Eden_Hazard.txt,Ryan_Bertrand.txt,0.5508,Not in top 5,VERIFIED,Moderate
+0023,5,0,DRIVE,Ruddy J.,Norwich,Chelsea,John_Ruddy.txt,Declan_Rudd.txt,0.5888,2,VERIFIED,Moderate
+0023,6,0,THROW IN,Ruddy J.,Norwich,Chelsea,John_Ruddy.txt,Declan_Rudd.txt,0.59,Not in top 5,VERIFIED,Routine
+0023,7,0,PASS,Ruddy J.,Norwich,Chelsea,John_Ruddy.txt,Declan_Rudd.txt,0.57,4,VERIFIED,Routine
+0023,8,0,PASS,Ruddy J.,Norwich,Chelsea,John_Ruddy.txt,Declan_Rudd.txt,0.6108,Not in top 5,VERIFIED,Routine
+0024,1,0,HEADER,Compper M.,RB Leipzig,Dortmund,Marvin_Compper.txt,Yussuf_Poulsen.txt,0.5744,2,VERIFIED,High
+0024,3,0,DRIVE,Werner T.,RB Leipzig,Dortmund,Timo_Werner.txt,Rani_Khedira.txt,0.546,4,VERIFIED,Moderate
+0024,4,0,DRIVE,Werner T.,RB Leipzig,Dortmund,Timo_Werner.txt,Timo_Werner.txt,0.5391,1,VERIFIED,Moderate
+0024,5,0,DRIVE,Piszczek L.,Dortmund,RB Leipzig,Lukasz_Piszczek.txt,Lukasz_Piszczek.txt,0.5593,1,VERIFIED,Moderate
+0024,6,0,PASS,Werner T.,RB Leipzig,Dortmund,Timo_Werner.txt,Dominik_Kaiser.txt,0.5085,Not in top 5,VERIFIED,Routine
+0024,7,0,THROW IN,Halstenberg M.,RB Leipzig,Dortmund,Marcel_Halstenberg.txt,Marcel_Halstenberg.txt,0.5563,1,VERIFIED,Routine
+0024,8,0,PASS,Halstenberg M.,RB Leipzig,Dortmund,Marcel_Halstenberg.txt,Marcel_Halstenberg.txt,0.5217,1,VERIFIED,Routine
+0025,0,0,HIGH PASS,Bartra M.,Dortmund,RB Leipzig,Marc_Bartra.txt,Marcel_Sabitzer.txt,0.6164,Not in top 5,VERIFIED,Moderate
+0025,1,0,HIGH PASS,Bartra M.,Dortmund,RB Leipzig,Marc_Bartra.txt,Marcel_Sabitzer.txt,0.5308,Not in top 5,VERIFIED,Moderate
+0025,3,0,HEADER,Weidenfeller R.,Dortmund,RB Leipzig,Roman_Weidenfeller.txt,Terrence_Boyd.txt,0.5509,Not in top 5,VERIFIED,High
+0025,4,0,DRIVE,Weidenfeller R.,Dortmund,RB Leipzig,Roman_Weidenfeller.txt,Terrence_Boyd.txt,0.5254,Not in top 5,VERIFIED,Moderate
+0025,5,0,DRIVE,Weidenfeller R.,Dortmund,RB Leipzig,Roman_Weidenfeller.txt,Terrence_Boyd.txt,0.5527,Not in top 5,VERIFIED,Moderate
+0025,6,0,DRIVE,Weidenfeller R.,Dortmund,RB Leipzig,Roman_Weidenfeller.txt,Terrence_Boyd.txt,0.6092,Not in top 5,VERIFIED,Moderate
+0025,7,0,DRIVE,Piszczek L.,Dortmund,RB Leipzig,Lukasz_Piszczek.txt,Lukasz_Piszczek.txt,0.5675,1,VERIFIED,Moderate
+0025,8,0,DRIVE,Papastatho,Dortmund,RB Leipzig,Sokratis_Papastathopoulos.txt,Yussuf_Poulsen.txt,0.5045,Not in top 5,VERIFIED,Moderate
+0025,9,0,SHOT,Schmelzer,Dortmund,RB Leipzig,Marcel_Schmelzer.txt,Marcel_Schmelzer.txt,0.907,1,VERIFIED,Critical
+0025,10,0,BALL PLAYER BLOCK,Burke,RB Leipzig,Dortmund,Oliver_Burke.txt,Oliver_Burke.txt,0.8304,1,VERIFIED,Moderate
+0026,0,0,PASS,Hazard E.,Chelsea,Leicester,Eden_Hazard.txt,Junior_Stanislas.txt,0.5477,Not in top 5,VERIFIED,Routine
+0026,1,0,PASS,Hazard E.,Chelsea,Leicester,Eden_Hazard.txt,Ryan_Bertrand.txt,0.5366,Not in top 5,VERIFIED,Routine
+0026,2,0,DRIVE,Moses V.,Chelsea,Leicester,Moses_Simon.txt,Ryan_Bertrand.txt,0.4805,Not in top 5,VERIFIED,Moderate
+0026,3,0,DRIVE,Vardy J.,Leicester,Chelsea,Jamie_Vardy.txt,Ryan_Bertrand.txt,0.5209,2,VERIFIED,Moderate
+0027,0,0,THROW IN,Hernandez L.,Atl. Madrid,Unknown,Theo_Hernandez.txt,"Pablo_Hern%C3%A1ndez_(footballer,_born_1985).txt",0.6843,Not in top 5,VERIFIED,Routine
+0027,1,0,PASS,Hernandez L.,Atl. Madrid,Unknown,Theo_Hernandez.txt,"Pablo_Hern%C3%A1ndez_(footballer,_born_1985).txt",0.6194,Not in top 5,VERIFIED,Routine
+0027,2,0,PASS,Hernandez L.,Atl. Madrid,Unknown,Theo_Hernandez.txt,"Pablo_Hern%C3%A1ndez_(footballer,_born_1985).txt",0.6118,Not in top 5,VERIFIED,Routine
+0027,3,0,PASS,Hernandez L.,Atl. Madrid,Unknown,Theo_Hernandez.txt,"Pablo_Hern%C3%A1ndez_(footballer,_born_1985).txt",0.6281,Not in top 5,VERIFIED,Routine
+0027,4,0,PASS,Hernandez L.,Atl. Madrid,Unknown,Theo_Hernandez.txt,"Pablo_Hern%C3%A1ndez_(footballer,_born_1985).txt",0.6402,Not in top 5,VERIFIED,Routine
+0027,5,0,DRIVE,Hernandez L.,Atl. Madrid,Unknown,Theo_Hernandez.txt,"Pablo_Hern%C3%A1ndez_(footballer,_born_1985).txt",0.6373,Not in top 5,VERIFIED,Moderate
+0027,6,0,PASS,Hernandez L.,Atl. Madrid,Unknown,Theo_Hernandez.txt,"Pablo_Hern%C3%A1ndez_(footballer,_born_1985).txt",0.6257,Not in top 5,VERIFIED,Routine
+0027,7,0,PASS,Hernandez L.,Atl. Madrid,Unknown,Theo_Hernandez.txt,"Pablo_Hern%C3%A1ndez_(footballer,_born_1985).txt",0.5281,Not in top 5,VERIFIED,Routine
+0027,8,0,PASS,Hernandez L.,Atl. Madrid,Unknown,Theo_Hernandez.txt,"Pablo_Hern%C3%A1ndez_(footballer,_born_1985).txt",0.6215,Not in top 5,VERIFIED,Routine
+0027,9,0,DRIVE,Hernandez L.,Atl. Madrid,Unknown,Theo_Hernandez.txt,"Pablo_Hern%C3%A1ndez_(footballer,_born_1985).txt",0.6405,Not in top 5,VERIFIED,Moderate
+0027,10,0,DRIVE,Hernandez L.,Atl. Madrid,Unknown,Theo_Hernandez.txt,"Pablo_Hern%C3%A1ndez_(footballer,_born_1985).txt",0.5143,Not in top 5,VERIFIED,Moderate
+0027,11,0,DRIVE,Hernandez L.,Atl. Madrid,Unknown,Theo_Hernandez.txt,"Pablo_Hern%C3%A1ndez_(footballer,_born_1985).txt",0.6165,Not in top 5,VERIFIED,Moderate
+0028,2,0,PASS,Benzema,Real Madrid,Granada CF,Karim_Benzema.txt,Lucas_V%C3%A1zquez.txt,0.6168,Not in top 5,VERIFIED,Routine
+0028,3,0,PASS,Arbeloa A.,Real Madrid,Granada CF,Alvaro_Arbeloa.txt,"Javi_Garc%C3%ADa_(footballer,_born_1977).txt",0.6005,Not in top 5,VERIFIED,Routine
+0028,4,0,DRIVE,Lopes M.,Granada CF,OUT,Anthony_Lopes.txt,"Javi_Garc%C3%ADa_(footballer,_born_1977).txt",0.6053,Not in top 5,VERIFIED,Moderate
+0028,5,0,PASS,Lopes M.,Granada CF,OUT,Anthony_Lopes.txt,"Javi_Garc%C3%ADa_(footballer,_born_1977).txt",0.5792,Not in top 5,VERIFIED,Routine
+0028,6,0,OUT,OUT,OUT,Granada CF,Gil_Vermouth.txt,"Javi_Garc%C3%ADa_(footballer,_born_1977).txt",0.6288,Not in top 5,VERIFIED,Routine
+0028,7,0,OUT,OUT,OUT,Granada CF,Gil_Vermouth.txt,"Javi_Garc%C3%ADa_(footballer,_born_1977).txt",0.7406,Not in top 5,VERIFIED,Routine
+0028,8,0,OUT,OUT,OUT,Granada CF,Gil_Vermouth.txt,"Javi_Garc%C3%ADa_(footballer,_born_1977).txt",0.6887,Not in top 5,VERIFIED,Routine
+0028,9,0,THROW IN,Asensio,Real Madrid,Granada CF,Marco_Asensio.txt,Jaime_Romero.txt,0.662,Not in top 5,VERIFIED,Routine

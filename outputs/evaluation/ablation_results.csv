@@ -1,0 +1,7 @@
+condition,mode,evaluated_events,precision_at_1,precision_at_3,recall_at_5,mrr,factual_consistency_rate
+A0_Semantic_Baseline,semantic_only,113,0.1416,0.2124,0.2212,0.1748,
+A1_Entity_Aware,entity_aware,113,0.2035,0.2478,0.2743,0.2299,
+A2_Temporal_Context,temporal,113,0.1681,0.2035,0.2212,0.1903,
+A3_Match_State,match_state,113,0.1681,0.2035,0.2212,0.1903,
+A4_Full_System,full,113,0.1681,0.2035,0.2212,0.1903,
+A5_Full_System_Fact_Checked,full + factual_verification,113,0.1681,0.2035,0.2212,0.1903,1.0
