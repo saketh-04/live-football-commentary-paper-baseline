@@ -8,15 +8,16 @@ cache/
 data/*
 !data/demo/
 !data/demo/**
+!data/addinfo_retrieval/
+!data/addinfo_retrieval/**
 
-outputs/*
-outputs/demo-step4/*
+outputs/
+!outputs/demo-step4/
 !outputs/demo-step4/0008/
 !outputs/demo-step4/0008/en-w-sub-w-gsr.mp4
 
 logs/
 *.wav
 *.zip
-
 storage/
 archives/

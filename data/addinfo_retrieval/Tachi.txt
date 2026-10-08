@@ -1,0 +1,131 @@
+Tachi
+Tachi (太刀) | |
+---|---|
+Type | Sword |
+Place of origin | Japan |
+Production history | |
+Produced | Heian period (794–1185) to present |
+Specifications | |
+Blade length | approx. 70–80 cm (28–31 in) |
+Blade type | Curved, single-edged |
+Scabbard/sheath | Lacquered wood |
+A tachi (太刀) is a type of sabre-like traditionally made Japanese sword (nihonto) worn by the samurai class of feudal Japan. Tachi and uchigatana generally differ in length, degree of curvature, and how they were worn when sheathed, the latter depending on the location of the mei (銘), or signature, on the tang. The tachi style of swords preceded the development of the katana, which was not mentioned by name until near the end of the twelfth century.[1] Tachi were the mainstream Japanese swords of the Kotō period between 900 and 1596.[2] Even after the Muromachi period (1336–1573), when katana became the mainstream, tachi were often worn by high-ranking samurai.
+History
+[edit]The production of swords in Japan is divided into specific time periods:[4]
+- Jōkotō (ancient swords, until around 900)
+- Kotō (old swords, around 900–1596)
+- Shintō (new swords, 1596–1780)
+- Shinshintō (new new swords, 1781–1876)
+- Gendaitō (modern or contemporary swords, 1876–present)
+The predecessor of the Japanese sword has been called warabitetō (蕨手刀).[5][6][7] In the middle of the Heian period (794–1185), samurai improved on the warabitetō to develop kenukigata-tachi (毛抜形太刀) (early Japanese sword).[5][6] To be more precise, it is thought that the Emishi improved the warabitetō and developed Kenukigata-warabitetō (毛抜形蕨手刀) with a hole in the hilt and kenukigatatō (毛抜形刀) without decorations on the tip of the hilt, and the samurai developed kenukigata-tachi based on these swords.[8] Kenukigata-tachi, which was developed in the first half of the 10th century, has a three-dimensional cross-sectional shape of an elongated pentagonal or hexagonal blade called shinogi-zukuri and a gently curved single-edged blade, typical features of Japanese swords. There is no wooden hilt attached to kenukigata-tachi, and the tang (nakago), integrated with the blade, is directly gripped and used. The term kenukigata is derived from the fact the central part of tang is hollowed in the shape of ancient Japanese tweezers (kenuki).[9]
+In the tachi developed after kenukigata-tachi, a structure in which the hilt is fixed to the tang (nakago) with a pin called mekugi was adopted. As a result, a sword with three basic external elements of Japanese swords, the cross-sectional shape of shinogi-zukuri, a gently curved single-edged blade, and the structure of nakago, was completed.[9][10] Its shape may reflect the changing form of warfare in Japan. Cavalry were now the dominant fighting unit, and the older straight chokutō were unsuitable for fighting from horseback. The curved sword is a far more efficient weapon wielded by a warrior on horseback; the curve of the blade adds considerably to the downward force of a cutting action.[10] According to historian Karl Friday, before the 13th century, there are no written references or drawings showing swords of any kind were used from horseback.[11][full citation needed] However, According to Yoshikazu Kondo, bow and arrows were certainly the main weapons used in cavalry battles, but from around the Genpei War in the 12th century, the use of tachi on horseback increased.[12] Early models had uneven curves with the deepest part of the curve at the hilt. As eras changed, the center of the curve tended to move up the blade.[13]
+By the 11th century during the Heian period, tachi were exported to neighboring countries in Asia. For example, in the poem "The Song of Japanese Swords" Ouyang Xiu, a statesman of the Song Dynasty in China, described Japanese swords as follows: "It is a treasured sword with a scabbard made of fragrant wood covered with fish skin, decorated with brass and copper, and capable of exorcising evil spirits. It is imported at a great cost."[14][15]
+From the Heian period (794–1185), ordinary samurai wore swords of the style called kurourusi tachi (kokushitsu no tachi, 黒漆太刀), which meant black lacquer tachi. The hilt of a tachi is wrapped in leather or ray skin, and it is wrapped with black thread or leather cord, and the scabbard is coated with black lacquer. On the other hand, court nobles wore tachi decorated with precisely carved metal and jewels for ceremonial purposes. High-ranking court nobles wore swords of the style called kazari tachi or kaza tachi (飾太刀, 飾剣), which meant decorative tachi, and lower-ranking court nobles wore simplified kazatachi swords of the style called hosodachi (細太刀), which meant thin tachi. The kazatachi and hosodachi worn by nobles were initially straight like a chokutō, but since the Kamakura period they have had a gentle curve under the influence of tachi. Since tachi worn by court nobles were for ceremonial use, they generally had an iron plate instead of a blade.[16][17]
+In the Kamakura period (1185–1333), high-ranking samurai wore hyogo gusari tachi (hyogo kusari no tachi, 兵庫鎖太刀), which meant a sword with chains in the arsenal. The scabbard of the tachi was covered with a gilt copper plate and hung by chains at the waist. At the end of the Kamakura period, simplified hyogo gusari tachi came to be made as an offering to the kami of Shinto shrines and fell out of use as weapons. On the other hand, in the Kamakura period, there was a type of tachi called hirumaki tachi (蛭巻太刀) with a scabbard covered with metal, which was used as a weapon until the Muromachi period. The meaning was a sword wrapped around a leech, and its feature was that a thin metal plate was spirally wrapped around the scabbard, so it was both sturdy and decorative, and chains were not used to hang the scabbard around the waist.[16][17]
+-
+Kurourusi tachi, Shishio. 13th century, Kamakura period. Important Cultural Property. Tokyo National Museum.
+-
+Hyogo gusari tachi. 13th century, Kamakura period. Important Cultural Property. Tokyo National Museum.
+-
+Hirumaki tachi. 14th century, Nanboku-chō period. Important Cultural Property. Tokyo National Museum.
+The Mongol invasions of Japan in the 13th century during the Kamakura period facilitated a change in the designs of Japanese swords. The swordsmiths of the Sōshū school represented by Masamune studied ruined tachi – broken or bent in battle – to develop new production methods, and create innovative swords. They forged the blade using a combination of soft and hard steel to optimize the temperature and timing of the heating and cooling of the blade, resulting in a lighter and very robust blade. They also made the curve of the blade gentle, lengthened the tip linearly, widened the width from the cutting edge to the opposite side of the blade, and thinned the cross section to improve the penetration and cutting ability of the blade.[18][19]
+Historically in Japan, the ideal blade of a Japanese sword is considered to be the kotō in the Kamakura period, and the swordsmiths from the Edo period to the present day after the Shintō period focused on reproducing the blade of a Japanese sword in the Kamakura period. There are more than 100 Japanese swords designated as National Treasures in Japan, of which the Kotō of the Kamakura period account for 80% and the tachi account for 70%.[20][21]
+-
+By Nagamitsu. Bizen Osafune school.
+-
+Okadagiri Yoshifusa, by Yoshifusa. Bizen Fukuoka-Ichimonji school. The name comes from the fact Oda Nobuo killed his vassal Okada with this sword.
+-
+Nikkō Sukezane, by Sukezane. Bizen Fukuoka-Ichimonji school. This sword was owned by Tokugawa Ieyasu.
+-
+By Sukezane. This sword was owned by Kishū Tokugawa family.
+From the end of the Kamakura period to the end of the Muromachi period (1333–1573), kawatsutsumi tachi (革包太刀), which means a tachi wrapped in leather, was popular. The kawatsutsumi tachi was stronger than the kurourushi tachi because its hilt was wrapped in leather or ray skin, lacquer was painted on top of it, leather straps and cords were wrapped around it, and the scabbard and sometimes the tsuba (hand guard) were also wrapped in leather.[16]
+By the 15th century, Japanese swords, including tachi, had already gained international fame by being exported to China and Korea.[22] For example, Koreans learned how to make Japanese swords by sending swordsmiths to Japan and inviting Japanese swordsmiths to Korea. According to the record of June 1, 1430, in the Veritable Records of the Joseon Dynasty, a Korean swordsmith who went to Japan and mastered the method of making Japanese swords presented a Japanese sword to the King of Korea and was rewarded for the excellent work which was no different from the swords made by the Japanese.[22][23]
+Traditionally, yumi (bows) were the main weapon of war in Japan, and tachi and naginata were for close combat. The Ōnin War in the late 15th century in the Muromachi period expanded into a large-scale domestic war, in which employed farmers called ashigaru were mobilized in large numbers. They fought on foot using katana shorter than tachi. In the Sengoku period (period of warring states) in the late Muromachi period, the war became bigger; ashigaru fought in a close formation using yari (spears) lent to them. Furthermore, in the late 16th century, Tanegashima (matchlock arquebuses) were introduced from Portugal, and Japanese swordsmiths mass-produced improved products, with ashigaru fighting with leased guns. On the battlefield in Japan, guns and spears became main weapons in addition to bows. Due to the changes in fighting styles in these wars, the tachi and naginata became obsolete among samurai, and the katana, which was easy to carry, became the mainstream. The dazzling-looking tachi gradually became a symbol of the authority of high-ranking samurai.[24][25][26]
+From the 15th century, low-quality swords were mass-produced under the influence of the large-scale war. These swords, along with spears, were lent to recruited farmers called ashigaru, while swords were exported. Such mass-produced swords are called kazuuchimono, and swordsmiths of the Bisen school and Mino school produced them by division of labor.[24][27] The export of Japanese sword reached its height during the Muromachi period—at least 200,000 swords were shipped to Ming Dynasty China in official trade in an attempt to soak up the production of Japanese weapons and make it harder for pirates in the area to arm. In the Ming Dynasty of China, Japanese swords and their tactics were studied to repel pirates, and wodao and miaodao were developed based on Japanese swords.[14][28][29]
+From this period, the tang (nakago) of many old tachi were cut and shortened into katana. This modification is called suriage.[30] For example, many of the tachi Masamune forged during the Kamakura period were converted into katana, so his only existing works are katana and tantō.[31]
+From around the 16th century, many Japanese swords, including tachi, were exported to Thailand, where katana-style swords were made and prized for battle and art work, and some of them are in the collections of the Thai royal family.[32]
+In the Sengoku period (1467–1615) or the Azuchi–Momoyama period (1568–1600), the itomaki tachi (itomaki no tachi, {{lang|ja|糸巻太刀), which means a tachi wound with thread, appeared and became the mainstream of tachi after that. Itomaki tachi was decorated with lacquer decorations with many maki-e and flashy colored threads, and was used as a gift, a ceremony, or an offering to the kami of Shinto shrines.[16]
+In later Japanese feudal history, during the Sengoku and Edo periods, certain high-ranking warriors of the ruling class wore their sword tachi-style (edge-downward), rather than with the scabbard thrust through the belt with the edge upward.[33] This style of swords is called handachi, "half tachi". In handachi, styles were often mixed, for example, fastening to the obi was katana style, but metalworking of the scabbard was tachi style.[34]
+With the rise of statism in Shōwa Japan, the Imperial Japanese Army and the Imperial Japanese Navy implemented swords called shin guntō, worn tachi style (cutting-edge down).[35]
+In the Shintō period from around 1596 in the Azuchi–Momoyama period, the traditional techniques of the Kotō period were lost, and no smith was able to reproduce the tachi of the Kamakura period. However, in 2014, Kunihira Kawachi succeeded in reproducing a tachi from the Kamakura period. He received the Masamune Prize, the highest honor as a swordsmith. On the tachi he forged, midare-utsuri (a pattern of hazy white shadows between hamon and shinogi), characteristic of the Bizen school in the Kamakura period. Nobody could win the Masamune Prize without extraordinary achievements, and in the field of tachi and katana, no one won until Kawauchi for 18 years.[36]
+-
+A katana modified from a tachi forged by Masamune. Sōshū school. 14th century, Kamakura period. Important Cultural Property. Tokyo National Museum. While it was owned by Ishida Mitsunari, it was commonly called Ishida Masamune.
+-
+Mounting for a sword of the itomaki no tachi type with design of mon (family crests). 1600s. Museum of Fine Arts, Boston.
+Features
+[edit]With a few exceptions, katana and tachi can be distinguished from each other, if signed, by the location of the signature (mei) on the tang. In general, the signature should be carved into the side of the tang facing outward as the sword is worn on the wielder's left waist. Since a tachi was worn cutting edge down, and the katana was worn cutting edge up, the mei would be in opposite locations on the tang of both types of swords.[37]
+An authentic tachi had an average cutting edge length (nagasa) of 70–80 cm (27+9⁄16–31+1⁄2 in), and compared to a katana, was generally lighter in proportion to its length, had a greater taper from hilt to point, was more curved and had a smaller point area for penetrating heavy clothing.[38]
+Unlike the traditional manner of wearing the katana, the tachi was worn hung from the belt with the cutting edge down,[39] and was most effective used by cavalry.[40] Deviations from the average length of tachi have the prefixes ko- for "short" and ō- for "great, large" attached. For instance, tachi shōtō and closer in size to a wakizashi were called kodachi. The longest tachi (considered a 15th-century ōdachi) in existence is 3.7 metres (12 ft) in total length with a 2.2 metres (7 ft 3 in) blade, but is believed to be ceremonial. In the late 1500s and early 1600s, many tachi blades were modified into katana, their cut tangs (o-suriage) removing the smiths' signatures from the swords.[41]
+For a sword to be worn in tachi style, it needed to be mounted in a tachi koshirae. The tachi koshirae has two hangers (ashi) so the sword can be worn in a horizontal position with the cutting edge down.[42] A sword not mounted in a tachi koshirae could be worn tachi style by use of a koshiate, a leather device allowing any sword to be worn in the tachi style.[43]
+Gallery
+[edit]Generally, the blade and the sword mounting of Japanese swords are displayed separately in museums, and this tendency is remarkable in Japan. For example, the Nagoya Japanese Sword Museum "Nagoya Touken World", one of Japan's largest sword museums, posts separate videos of the blade and the sword mounting on its official website and YouTube.[44][45]
+-
+Mikazuki Munechika, by Sanjō Munechika. A Yamashiro Sanjō school. Late 10th century, Heian period. National Treasure. Tokyo National Museum. This sword is one of the "Five Swords under Heaven" (天下五剣 Tenka Goken).
+-
+Top: A tachi forged by Rai Kunitoshi. Late Kamakura period. Bottom: Katana style mounting, Early Meiji period.
+-
+Top: A tachi forged by Osafune Kanemitsu. Nanboku-chō period. Bottom: Tachi mounting, Late Edo period.
+-
+Tachi forged by Bizen Osafune Sukesada, 1515. Scabbard in aogai-nashiji lacquer, gold decorations. Tokyo National Museum.
+-
+Tachi mountings decorated with maki-e. Top and bottom: Itomaki-no-tachi style sword mountings. Edo period, 1800s. Tokyo National Museum
+-
+Tachi mounting. Mid-Edo period.
+-
+Tachi mounting. Late Edo period.
+-
+Various types of sword koshirae, a device used to carry a sword in the tachi style (cutting edge down).
+-
+Line drawing showing the correct method of wearing a tachi while in armour
+See also
+[edit]- Japanese sword
+- Katana
+- Kodachi
+- Ōdachi
+- Tenka-Goken – "Five Swords Under Heaven", the five best swords in Japan. All of the five are classified as tachi.
+References
+[edit]- ^ Turnbull, Stephen (8 February 2011). Katana: The Samurai Sword. Osprey Publishing. p. 22. ISBN 978-1-84908-658-5.
+- ^ Nagayama, Kōkan (1997). The Connoisseur's Book of Japanese Swords. Kodansha International. ISBN 978-4-7700-2071-0., page 48
+- ^ ｢日本刀｣の文化的な価値を知っていますか」. Toyo keizai, August 2, 2017
+- ^ "Transition of kotō, shintō, shinshintō, and gendaitō". Nagoya Japanese Sword Museum Touken World.
+- ^ a b Kazuhiko Inada (2020), Encyclopedia of the Japanese Swords. p. 33. ISBN 978-4651200408
+- ^ a b Shimomukai, Tatsuhiko (30 June 2000). The Review of the Study of History : Shigaku Kenkyu. 広島史学研究会. Archived from the original on 2021-05-18.
+- ^ Kuehn, John T. (15 January 2014). A Military History of Japan: From the Age of the Samurai to the 21st Century. Praeger. p. 34. ISBN 978-1-59228-720-8.
+- ^ Tatsuhiko Shimomukai (2007). 武士の成長と院政 日本の歴史 07. Kodansha. ISBN 978-4062919074.
+- ^ a b Kazuhiko Inada (2020), Encyclopedia of the Japanese Swords. pp. 32–33. ISBN 978-4651200408
+- ^ a b "歴史人". September 2020. pp.36–37. ASIN B08DGRWN98
+- ^ P.84
+- ^ Yoshikazu Kondo (1997). 弓矢と刀剣―中世合戦の実像. Yoshikawa Kobunkan. ISBN 978-4642054201
+- ^ 歴史人. September 2020. pp. 6, 36–37. ASIN B08DGRWN98
+- ^ a b Takeo Tanaka (2012). Wokou. p. 104. Kodansha. ISBN 978-4062920933
+- ^ 日本の技術の精巧さは... Mainichi Shimbun. March 27, 2016.
+- ^ a b c d Kazuhiko Inada (2020). Encyclopedia of the Japanese Swords. pp.36–44. ISBN 978-4651200408
+- ^ a b 歴史人. September 2020. pp. 37–41. ASIN B08DGRWN98
+- ^ なぜ「正宗」は名刀なのか. Masamune Sword and Blade Workshop
+- ^ 五箇伝（五ヵ伝、五ヶ伝）. Touken World.
+- ^ 日本刀の格付けと歴史. Touken World.
+- ^ 鎌倉期の古名刀をついに再現 論説委員・長辻象平. Sankei Shimbun. July 2, 2017
+- ^ a b Takeo Tanaka (1982) 対外関係と文化交流. p. 348. Shibunkaku. ASIN B000J7JC30
+- ^ Junko Oishi. "Analyzing the words of Wae-geom and Wae-geom-sa in Classical Korean literatures". p. 72. Archived from the original on 9 December 2022. Retrieved 9 December 2022.
+- ^ a b 歴史人. September 2020. p. 40. ASIN B08DGRWN98
+- ^ History of Japanese swords "Muromachi period - Azuchi-Momoyama period". Nagoya Japanese Sword Museum Touken World
+- ^ "Arms for battle - spears, swords, bows". Nagoya Japanese Sword Museum Touken World
+- ^ 歴史人. September 2020. pp. 70–71. ASIN B08DGRWN98
+- ^ Koichi Shinoda. (1 May 1992). Chinese Weapons and Armor. Shinkigensha. ISBN 9784883172115
+- ^ Rekishi Gunzo. (2 July 2011) Complete Work on Strategic and Tactical Weapons. From Ancient China to Modern China. Gakken. ISBN 9784056063448
+- ^ 日本刀鑑賞のポイント「日本刀の姿」 Nagoya Touken Museum Touken World
+- ^ 相州伝の名工「正宗」. Nagoya Japanese Sword Museum Touken World.
+- ^ Ayumi Harada (24 October 2016). タイにおける異文化の受容と変容 ―１３世紀から１８世紀の対外交易品を中心として― [Reception and transformation of foreign cultures in Thailand; focusing on the foreign trade items of the 13th to 18th centuries] (PDF) (in Japanese). Japan Society for the Promotion of Science. Archived from the original (PDF) on 25 October 2021. Retrieved 11 December 2022.
+- ^ Kapp, Leon; Hiroko Kapp; Yoshindo Yoshihara (1987). The Craft of the Japanese Sword. Japan: Kodansha International. p. 168. ISBN 978-0-87011-798-5.
+- ^ Handachi-Goshirae. weblio.
+- ^ Philip S. Jowett (2002). The Japanese Army, 1931–45. Vol. 1: The Japanese Army 1931–42. Osprey. ISBN 1-84176-353-5, 978-1-84176-353-8. p. 41.
+- ^ 日本刀鑑賞のポイント「日本刀の映りとは」. Nagoya Japanese Sword Museum Touken World
+- ^ 土子, 民夫; 三品, 謙次 (May 2002). 日本刀21世紀への挑戦. Kodansha International. p. 30. ISBN 978-4-7700-2854-9.
+- ^ 寒山, 佐藤 (1983). The Japanese Sword. Kodansha International. p. 15. ISBN 978-0-87011-562-2.
+- ^ Inami Hakusui (2009). Nippon-tô: the Japanese sword. Cosmo. p. 160.
+- ^ "A distinguished collection of arms and armor on permanent display", Issue 4 of Bulletin, Los Angeles County Museum of Natural History History Division, Ward Ritchie Press, 1969. p. 120.
+- ^ Kōkan Nagayama (1998). The connoisseur's book of Japanese swords, illustrated ed. Kodansha International. ISBN 4-7700-2071-6, 978-4-7700-2071-0. p. 48.
+- ^ Morihiro Ogawa and Kazutoshi Harada (2009). Art of the samurai: Japanese arms and armor, 1156–1868. Metropolitan Museum of Art. ISBN 1-58839-345-3, 978-1-58839-345-6. p. 193.
+- ^ Daniel C. Pauley (2009). Pauley's Guide - A Dictionary of Japanese Martial Arts and Culture. Samantha Pauley. ISBN 0-615-23356-2, 978-0-615-23356-7. p. 91.
+- ^ Touken World YouTube videos about Japanese swords
+- ^ Touken World YouTube videos on koshirae (sword mountings)
